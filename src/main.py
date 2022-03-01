@@ -1,5 +1,5 @@
 # ChessMaster v1
-# Author - Darren Joyner
+
 
 import chess
 import chess.svg
